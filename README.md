@@ -4,8 +4,7 @@
 
 The puzzler takes it's players to a mysterious dungeon in the mountains. The game challenges it's players memory, and only if they succeded do they move on. 
 
-A video of the game being played can be seen here 
-https://www.youtube.com/watch?v=6JnNXdeysIU&feature=youtu.be
+A video of the game being played can be seen here https://www.youtube.com/watch?v=6JnNXdeysIU&feature=youtu.be
 
 # The Process
 
@@ -13,6 +12,8 @@ The orbs need to be in direct line of site for it's players so they can see the 
 
 
 # User Testing
+
+![img_1411](https://user-images.githubusercontent.com/32683101/32756690-43b95520-c890-11e7-804c-b9888cb364f9.jpeg)
 
 With the first user test I realized that we were little people int he land of Giants. After the UI section was completed User testing mde clear to me that the instructions were unclear. In the UI Play I added " A memory game" so the users would have an idea as to what to expect.
 
