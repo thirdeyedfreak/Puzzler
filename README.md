@@ -17,6 +17,8 @@ The orbs need to be in direct line of site for it's players so they can see the 
 
 With the first user test I realized that we were little people in the land of Giants. After the UI section was completed User testing made clear to me that the instructions were unclear. In the UI Play I added " A memory game" so the users would have an idea as to what to expect.
 
+![img_1402](https://user-images.githubusercontent.com/32683101/32756830-069d3142-c891-11e7-8cc7-efda1fa0dee8.jpeg)
+
 
 # BreakDown
 
