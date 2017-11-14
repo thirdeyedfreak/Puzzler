@@ -1,10 +1,14 @@
 # Puzzler
 
+![img_1403](https://user-images.githubusercontent.com/32683101/32756938-97a96b24-c891-11e7-8727-479c1250a630.jpeg)
+
+
 # Nathanial's Puzzler Project
 
 The puzzler takes it's players to a mysterious dungeon in the mountains. The game challenges it's players memory, and only if they succeded do they move on. 
 
-A video of the game being played can be seen here https://www.youtube.com/watch?v=6JnNXdeysIU&feature=youtu.be
+Here's a video of gameplay
+https://www.youtube.com/watch?v=6JnNXdeysIU&feature=youtu.be
 
 # The Process
 
