@@ -1,1 +1,25 @@
 # Puzzler
+
+# Nathanial's Puzzler Project
+
+The puzzler takes it's players to a mysterious dungeon in the mountains. The game challenges it's players memory, and only if they succeded do they move on. 
+
+A video of the game being played can be seen here 
+https://www.youtube.com/watch?v=6JnNXdeysIU&feature=youtu.be
+
+# The Process
+
+The orbs need to be in direct line of site for it's players so they can see the sequence. My original sketches helped me decide on where not to put them.
+
+
+# User Testing
+
+With the first user test I realized that we were little people int he land of Giants. After the UI section was completed User testing mde clear to me that the instructions were unclear. In the UI Play I added " A memory game" so the users would have an idea as to what to expect.
+
+# BreakDown
+
+The player eneters a Dungeon like atmosphere and are asked to repeat the sequence of spheres lighting up. If the user fails a sound indicates that they got it wrong and the game restarts the sequence until the player advances. When the player finishes the game they are congratulated and asked if they'd like to replay. If they choose to click the button it takest them back to the start of the game.
+
+# Conclusion
+
+Puzzler is a funa and simple game suited for all ages. Taking place in Virtual reality, it puts your memory to the test. Can you finish the puzzle?!
