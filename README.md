@@ -10,6 +10,7 @@ A video of the game being played can be seen here https://www.youtube.com/watch?
 
 The orbs need to be in direct line of site for it's players so they can see the sequence. My original sketches helped me decide on where not to put them.
 
+![lowfi sketch](https://user-images.githubusercontent.com/32683101/32756877-492821f2-c891-11e7-9f41-29040a9bb0ec.jpg)
 
 # User Testing
 
@@ -26,4 +27,4 @@ The player eneters a Dungeon like atmosphere and are asked to repeat the sequenc
 
 # Conclusion
 
-Puzzler is a funa and simple game suited for all ages. Taking place in Virtual reality, it puts your memory to the test. Can you finish the puzzle?!
+Puzzler is a fun and simple game suited for all ages. Taking place in Virtual reality, it puts your memory to the test. Can you finish the puzzle?!
