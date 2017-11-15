@@ -27,7 +27,7 @@ With the first user test I realized that we were little people in the land of Gi
 
 # BreakDown
 
-The player is prompted with a window "Welcome to Puzzler A Memory Game". User testing prompted me to add a clue as to what the game was and what to expect. Ambient noise plays in the back. After the player clicks the play button a rail motion  moves the player into our dungeon where the sound changes, setting a more thrilling tone. their only escape is to repeat the sequence of spheres lighting up. If the user fails a sound indicates that they got it wrong and the game restarts the sequence until the player advances. When the player finishes the game they are congratulated and asked if they'd like to replay. If they choose to click the button it takest them back to the start of the game. Where they will be given a new sequence to solve. 
+The player is prompted with a window "Welcome to Puzzler A Memory Game". User testing prompted me to add a clue as to what the game was and what to expect. Ambient noise plays in the back. After the player clicks the play button a rail motion  moves the player into our dungeon where the sound changes, setting a more thrilling tone. their only escape is to repeat the sequence of spheres lighting up. If the user fails a sound indicates that they got it wrong and the game restarts the sequence until the player advances. When the player finishes the game they are congratulated and asked if they'd like to replay. If they choose to click the button it takes them back to the start of the game. Where they will be given a new sequence to solve. 
 
 # Conclusion
 
